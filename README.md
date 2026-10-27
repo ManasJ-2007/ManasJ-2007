@@ -1,0 +1,27 @@
+## Hi, I'm Manas Jagtap 👋
+
+Dual Degree student in **Electrical Engineering** at **IIT Bombay** (Minor in Management).
+I work at the intersection of **reinforcement learning, machine learning and finance**, and I like building hardware too.
+
+- 🔭 Currently: a **deep RL (DQN) trading agent for NIFTY50 stocks**, benchmarked against ARIMA and LSTM (FinSearch, Finance Club IITB)
+- 🧠 Interests: RL for sequential decision-making, ML in quantitative finance, time-series forecasting, LLM/RAG systems
+- 🛠️ Also: founding team (product/hardware) at **Cinctech**, a startup building a low-cost football-tracking wearable (GNSS + IMU)
+- 📫 25b3922@iitb.ac.in · [LinkedIn](https://www.linkedin.com/in/manas-jagtap)
+
+### Projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| [**summer-of-science-rl**](https://github.com/ManasJ-2007/summer-of-science-rl) | From-scratch tabular and deep RL: Q-learning, SARSA, DQN (+ ablations), REINFORCE, A2C, PPO and DDPG, benchmarked across 3 seeds on FrozenLake, Taxi, CliffWalking, CartPole, LunarLander and Pendulum | Python, PyTorch, Gymnasium |
+| [**anonymous-question-voting-board**](https://github.com/ManasJ-2007/anonymous-question-voting-board) | Anonymous question collection and upvoting board | Google Apps Script, Sheets |
+| [**Global-Ai**](https://github.com/ManasJ-2007/Global-Ai) | Global AI Hackathon project | Python |
+
+*More repos are on the way: the RL trading agent, the RAG video knowledge assistant, the Socratic AI chatbot, and BSPD hardware design (KiCad/LTSpice).*
+
+### Toolbox
+**Languages:** Python · C++ · JavaScript · SQL · Verilog/VHDL · LaTeX
+**ML / Data:** PyTorch · Gymnasium · scikit-learn · NumPy · Pandas · Matplotlib
+**Hardware:** KiCad · LTSpice · Arduino / ESP8266 · Fusion 360
+**Finance:** DCF valuation · fundamental analysis · Zerodha Varsity
+
+<sub>Competitive programming: Codeforces 1200+ · LeetCode 100+ solved</sub>
