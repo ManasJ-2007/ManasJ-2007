@@ -30,4 +30,4 @@ I work at the intersection of **reinforcement learning, machine learning and fin
 **Hardware:** KiCad · LTSpice · Arduino / ESP8266 · Fusion 360
 **Finance:** DCF valuation · fundamental analysis · Zerodha Varsity
 
-<sub>Competitive programming: Codeforces 1200+ · LeetCode 100+ solved</sub>
+<sub>Competitive programming: Codeforces 1100+ · LeetCode 100+ solved</sub>
